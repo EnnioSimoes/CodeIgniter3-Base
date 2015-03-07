@@ -1,0 +1,5 @@
+-implantar validação de formulario modulo crud
+-Criar módulo de Autenticação
+-Criar módulo para envio de emails com templates BONITOS IGUAL PRESTASHOP!
+-Criar módulo de Relatórios
+-Modulo Crud implantar Pesquisa
